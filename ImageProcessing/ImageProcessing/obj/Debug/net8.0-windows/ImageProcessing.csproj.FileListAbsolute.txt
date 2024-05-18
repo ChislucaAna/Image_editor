@@ -1,0 +1,17 @@
+C:\Users\anach\OneDrive\Desktop\ImageProcessing\ImageProcessing\bin\Debug\net8.0-windows\ImageProcessing.exe
+C:\Users\anach\OneDrive\Desktop\ImageProcessing\ImageProcessing\bin\Debug\net8.0-windows\ImageProcessing.deps.json
+C:\Users\anach\OneDrive\Desktop\ImageProcessing\ImageProcessing\bin\Debug\net8.0-windows\ImageProcessing.runtimeconfig.json
+C:\Users\anach\OneDrive\Desktop\ImageProcessing\ImageProcessing\bin\Debug\net8.0-windows\ImageProcessing.dll
+C:\Users\anach\OneDrive\Desktop\ImageProcessing\ImageProcessing\bin\Debug\net8.0-windows\ImageProcessing.pdb
+C:\Users\anach\OneDrive\Desktop\ImageProcessing\ImageProcessing\obj\Debug\net8.0-windows\ImageProcessing.Form1.resources
+C:\Users\anach\OneDrive\Desktop\ImageProcessing\ImageProcessing\obj\Debug\net8.0-windows\ImageProcessing.Properties.Resources.resources
+C:\Users\anach\OneDrive\Desktop\ImageProcessing\ImageProcessing\obj\Debug\net8.0-windows\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\anach\OneDrive\Desktop\ImageProcessing\ImageProcessing\obj\Debug\net8.0-windows\ImageProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anach\OneDrive\Desktop\ImageProcessing\ImageProcessing\obj\Debug\net8.0-windows\ImageProcessing.AssemblyInfoInputs.cache
+C:\Users\anach\OneDrive\Desktop\ImageProcessing\ImageProcessing\obj\Debug\net8.0-windows\ImageProcessing.AssemblyInfo.cs
+C:\Users\anach\OneDrive\Desktop\ImageProcessing\ImageProcessing\obj\Debug\net8.0-windows\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\anach\OneDrive\Desktop\ImageProcessing\ImageProcessing\obj\Debug\net8.0-windows\ImageProcessing.dll
+C:\Users\anach\OneDrive\Desktop\ImageProcessing\ImageProcessing\obj\Debug\net8.0-windows\refint\ImageProcessing.dll
+C:\Users\anach\OneDrive\Desktop\ImageProcessing\ImageProcessing\obj\Debug\net8.0-windows\ImageProcessing.pdb
+C:\Users\anach\OneDrive\Desktop\ImageProcessing\ImageProcessing\obj\Debug\net8.0-windows\ImageProcessing.genruntimeconfig.cache
+C:\Users\anach\OneDrive\Desktop\ImageProcessing\ImageProcessing\obj\Debug\net8.0-windows\ref\ImageProcessing.dll
